@@ -1,1 +1,1 @@
-/* Autor: Kiro */
+/* Author: Kiro */
